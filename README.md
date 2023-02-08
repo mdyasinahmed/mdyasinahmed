@@ -1,13 +1,19 @@
-<h1 align="center">Hi there👋, I'm Yasin</h1>
+<h1 align="center">Hi there 👋, I'm Yasin</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdyasinahmed&label=Profile%20views&color=0e75b6&style=flat" alt="mdyasinahmed" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdyasinahmed" alt="mdyasinahmed" /></a> </p>
 
 - 🔭 I’m currently working on **lifeDrop**
 
 - 🌱 I’m currently learning **React**
 
-- 📝 I regularly write articles on [https://medium.com/@md_yasinahmed](https://medium.com/@md_yasinahmed)
+- 👯 I’m looking to collaborate on **Web Development**
+
+- 📝 I regularly write articles on [medium.com/@md_yasinahmed](medium.com/@md_yasinahmed)
+
+- 💬 Ask me about **frontend, programming**
 
 - 📫 How to reach me **yasinahmed7875@gmail.com**
 
