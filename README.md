@@ -36,5 +36,5 @@
 
 <h4 align="left">Let's connect with:</h4>
 <p align="left">
-<a href="https://linkedin.com/in/mdyasinahmedmahi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdyasinahmedmahi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mdyasiin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdyasinahmedmahi" height="30" width="40" /></a>
 </p>
