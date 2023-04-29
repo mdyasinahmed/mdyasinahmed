@@ -1,4 +1,5 @@
-<h1 align="center">Hi there👋, I'm Yasin</h1>
+<h3 align="center">Hi there👋,</h3>
+<h1>I'm Yasin</h1>
 <h3 align="center">A passionate Frontend Developer & Programmer from Bangladesh.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdyasinahmed&label=Profile%20views&color=0e75b6&style=flat" alt="mdyasinahmed" /> </p>
@@ -28,11 +29,16 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdyasinahmed&show_icons=true&locale=en&layout=compact" alt="mdyasinahmed" /> </p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdyasinahmed&show_icons=true&locale=en&layout=compact" alt="mdyasinahmed" /> </p><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mdyasinahmed&show_icons=true&locale=en" alt="mdyasinahmed" /></p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mdyasinahmed&show_icons=true&locale=en" alt="mdyasinahmed"/>
+</p><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdyasinahmed&" alt="mdyasinahmed" /></p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdyasinahmed&" alt="mdyasinahmed"/>
+</p><br>
 
 <h4 align="left">Let's connect with:</h4>
 <p align="left">
