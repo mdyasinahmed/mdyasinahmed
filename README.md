@@ -32,7 +32,7 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdyasinahmed&" alt="mdyasinahmed"/>
 </p><br>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdyasinahmed&show_icons=true&locale=en" alt="mdyasinahmed"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdyasinahmed&show_icons=true&locale=en&layout=compact" alt="mdyasinahmed"/>
 </p><br>
 <h4 align="left">Let's connect with:</h4>
 <p align="left">
