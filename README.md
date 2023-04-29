@@ -13,35 +13,22 @@
 - 📫 How to reach me **mdyasinahmedmahi@gmail.com**
 - Visit [mdyasin.com](https://mdyasin.com) to know more
 
-<h3 align="left">Languages and Tools:</h3>
-<p><h4 align="left">Languages:</h4>
-<p align="left">
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-</p>
 
-<h4 align="left">Dev Tools & Framework:</h4>
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-<h4 align="left">Design Tools:</h4>
-<p align="left"><a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a></p>
-</p><br>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mdyasiin) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@md_yasinahmed) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mdyasiiin) 
 
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mdyasinahmed&theme=prussian&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mdyasinahmed&theme=prussian&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdyasinahmed&theme=prussian&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mdyasinahmed&theme=discord&no-frame=true&no-bg=false&margin-w=4)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=mdyasinahmed&limit=5&theme=discord&combine_all_yearly_contributions=true)
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdyasinahmed&show_icons=true&locale=en&layout=compact" alt="mdyasinahmed" /> </p><br>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mdyasinahmed&show_icons=true&locale=en" alt="mdyasinahmed"/>
-</p><br>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdyasinahmed&" alt="mdyasinahmed"/>
-</p><br>
-
-<h4 align="left">Let's connect with:</h4>
-<p align="left">
-<a href="https://www.linkedin.com/in/mdyasiin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdyasinahmedmahi" height="30" width="40" /></a>
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=mdyasinahmed&icon=5&color=1)](https://visitcount.itsvg.in)
