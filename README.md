@@ -1,4 +1,4 @@
-<h1 align="center" >Hi there👋, I'm Yasin</h1>
+<h1 align="center" >Hi there👋, I'm YASIN</h1>
 <h3 align="center">A passionate Frontend Developer & Programmer from Bangladesh.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdyasinahmed&label=Profile%20views&color=0e75b6&style=flat" alt="mdyasinahmed" /> </p>
@@ -10,7 +10,10 @@
 - 📝 I regularly write articles on [medium.com](https://medium.com/@md_yasinahmed)
 
 - 📫 How to reach me **mdyasinahmedmahi@gmail.com**
+
 - Visit [mdyasin.com](https://mdyasin.com) to know more
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdyasinahmed" alt="mdyasinahmed" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p><h4 align="left">Languages:</h4>
