@@ -2,11 +2,9 @@
     <img src="https://komarev.com/ghpvc/?username=mdyasinahmed&label=Profile%20views&color=0e75b6&style=flat" alt="mdyasinahmed" />
 </p>
 
-<!--
 <p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdyasinahmed&theme=onedark" alt="mdyasinahmed" /></a>
 </p>
--->
 
 <h3 align="left">Languages and Tools:</h3>
 <p><h4 align="left">Languages:</h4>
