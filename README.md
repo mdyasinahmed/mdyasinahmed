@@ -42,7 +42,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mdyasinahmed&show_icons=true&locale=en" alt="mdyasinahmed"/>
 </p><br>
 
-
+![Yasin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs\&layout=compact)
 
 <!--
 <p align="left">
