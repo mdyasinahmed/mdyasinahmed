@@ -11,7 +11,7 @@
 -->
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdyasinahmed&" alt="mdyasinahmed"/>
-</p><br>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p><h4 align="left">Languages:</h4>
@@ -28,7 +28,7 @@
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdyasinahmed&show_icons=true&locale=en&layout=compact" alt="mdyasinahmed"/>
-</p><br>
+</p>
 
 <h4 align="left">Dev Tools & Framework:</h4>
 <p align="left">
