@@ -33,11 +33,11 @@
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a></p>
 </p><br>
 
-<!--
+ 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mdyasinahmed&show_icons=true&locale=en" alt="mdyasinahmed"/>
 </p><br>
--->
+ 
 
 <!--
 `![Yasin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mdyasinahmed\&layout=compact)
@@ -51,6 +51,8 @@
 </p>
 -->
 
+<!--
 <p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdyasinahmed&theme=onedark" alt="mdyasinahmed" /></a>
 </p>
+-->
