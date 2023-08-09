@@ -39,9 +39,7 @@
 </p><br>
  
 
-<!--
-`![Yasin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mdyasinahmed\&layout=compact)
--->
+![Yasin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mdyasinahmed\&layout=compact)
 <!--
 <p align="left">
   <h4 align="left">Let's connect with:</h4>
