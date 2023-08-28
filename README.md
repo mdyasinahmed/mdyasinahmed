@@ -19,12 +19,6 @@
     <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
 </p>
 
-
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdyasinahmed&show_icons=true&locale=en&layout=compact" alt="mdyasinahmed"/>
-</p>
-
 <h4 align="left">Tools & Framework:</h4>
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
@@ -36,6 +30,9 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdyasinahmed&" alt="mdyasinahmed"/>
 </p>
 
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdyasinahmed&show_icons=true&locale=en&layout=compact" alt="mdyasinahmed"/>
+</p>
 
 
 <p>
