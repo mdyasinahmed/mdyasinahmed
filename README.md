@@ -2,16 +2,14 @@
     <img src="https://komarev.com/ghpvc/?username=mdyasinahmed&label=Profile%20views&color=0e75b6&style=flat" alt="mdyasinahmed" />
 </p>
 
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdyasinahmed&" alt="mdyasinahmed"/>
+</p>
 <!--
 `[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdyasinahmed&layout=pie)](https://github.com/mdyasinahmed/github-readme-stats)
 -->
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdyasinahmed&show_icons=true&locale=en&layout=compact" alt="mdyasinahmed"/>
-</p>
-
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdyasinahmed&" alt="mdyasinahmed"/>
 </p>
 
 
