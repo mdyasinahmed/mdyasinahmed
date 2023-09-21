@@ -12,9 +12,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdyasinahmed&show_icons=true&locale=en&layout=compact" alt="mdyasinahmed"/>
 </p>
 
+ <!--
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mdyasinahmed&show_icons=true&locale=en" alt="mdyasinahmed"/>
 </p><br>
+-->
 
 <h3 align="left">Languages and Tools:</h3>
 <p><h4 align="left">Languages:</h4>
