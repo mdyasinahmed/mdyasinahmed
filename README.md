@@ -10,14 +10,15 @@ Database Management System For Metropolitan University Library
 - **Tech Stack:** HTML, CSS, Bootstrap, PHP, MySQL
 - **Project Purpose:** It was a group task for [Database Management System](https://github.com/mdyasinahmed/CSE223-224_DatabaseManagementSystem) course in University.
 - **Highlights:** I've contributed on design and development part aslo took place in <strong>Best Project Work</strong> list among two section of Batch.
+- **Key Features:** Complete user fiendly CRUD application.
 
 ### [Dynamic TO-DO List](https://github.com/mdyasinahmed/dynamic-todo-list-with-cpp)
 Simple dynamic To-Do List console application with C++
 - **Tech Stack:** C++, C++ Libraries and VS Code
 - **Project Purpose:** For [Algorithm Design And Analysis](https://github.com/mdyasinahmed/CSE131-132_AlgorithmDesignAndAnalysis) Course
-- **Highlights:** This project aims to create a dynamic to-do list by running the program in console. It allows users to Add, View, Search, Delete, and Update tasks
-
-
+- **Highlights:** This project aims to create a dynamic to-do list by running the program in console.
+- **Key Features:** It allows users to Add, View, Search, Delete, and Update tasks using Command Prompt, PowerShell, Bash Windows, Terminal, iTerm2 etc. (as it is console run application)
+- 
 ### Skills I have
 - **Programming Languages:** C, C++, Java, Dart, Python
 - **Dev & Design Tools:** Git, Figma, VS Code, Android Studio, IntelliJIDEA
