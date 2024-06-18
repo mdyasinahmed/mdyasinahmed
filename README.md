@@ -18,7 +18,7 @@ Simple dynamic To-Do List console application with C++
 - **Project Purpose:** For [Algorithm Design And Analysis](https://github.com/mdyasinahmed/CSE131-132_AlgorithmDesignAndAnalysis) Course
 - **Highlights:** This project aims to create a dynamic to-do list by running the program in console.
 - **Key Features:** It allows users to Add, View, Search, Delete, and Update tasks using Command Prompt, PowerShell, Bash Windows, Terminal, iTerm2 etc. (as it is console run application)
-- 
+  
 ### Skills I have
 - **Programming Languages:** C, C++, Java, Dart, Python
 - **Dev & Design Tools:** Git, Figma, VS Code, Android Studio, IntelliJIDEA
