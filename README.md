@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm <strong>Md. Yasin Ahmed Mahi</strong>, a passi
 Here are some of the projects I have worked on:
 
 ### [RecordBook](https://github.com/mdyasinahemd/dbms.RecordBook_Server)
-Database Management System For Metropolitan University Library. Complete CRUD Application and a group task for [Database Management System](https://github.com/mdyasinahmed/CSE223-224_DatabaseManagementSystem) course in University. I've contributed on development part.
+Database Management System For Metropolitan University Library. Complete CRUD Application and a group task for [Database Management System](https://github.com/mdyasinahmed/CSE223-224_DatabaseManagementSystem) course in University. I've contributed on development part. <br>
 **Tech Stack:** HTML, CSS, Bootstrap, PHP, MySQL
 <!--
 - **Project Purpose:** It was 
@@ -15,7 +15,7 @@ Database Management System For Metropolitan University Library. Complete CRUD Ap
 -->
 
 ### [Dynamic TO-DO List](https://github.com/mdyasinahmed/dynamic-todo-list-with-cpp)
-Simple dynamic To-Do list CRUD, console application for practice [Algorithm Design And Analysis](https://github.com/mdyasinahmed/CSE131-132_AlgorithmDesignAndAnalysis) Course
+Simple dynamic To-Do list CRUD, console application for practice [Algorithm Design And Analysis](https://github.com/mdyasinahmed/CSE131-132_AlgorithmDesignAndAnalysis) Course. <br>
 **Tech Stack:** C++, C++ Libraries and VS Code
 <!--
 - **Project Purpose:**
