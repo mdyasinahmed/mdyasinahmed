@@ -18,6 +18,27 @@ Simple dynamic To-Do List console application with C++
 - **Project Purpose:** For [Algorithm Design And Analysis](https://github.com/mdyasinahmed/CSE131-132_AlgorithmDesignAndAnalysis) Course
 - **Highlights:** This project aims to create a dynamic to-do list by running the program in console.
 - **Key Features:** It allows users to Add, View, Search, Delete, and Update tasks using Command Prompt, PowerShell, Bash Windows, Terminal, iTerm2 etc. (as it is console run application)
+
+### Website(Frontend)
+**Tech Stack:** HTML, CSS, Bootstrap, JavaScript
+
+#### [Latest News](https://mdyasinahmed.github.io/newsportal_landingpage_demo/)
+Online news portal landing page practice project. [Live Preview](https://mdyasinahmed.github.io/newsportal_landingpage_demo/)
+
+#### [MultiKart](https://mdyasinahmed.github.io/MultiKart/)
+E-commerce Landing Page Practice Project. Clone and Idea from Themeforest, Templetemonster. [Live Preview](https://mdyasinahmed.github.io/MultiKart/)
+
+#### [Justice](https://justice-landing-page0.netlify.app/)
+Legal Solutions website landing page. [Live Preview](https://justice-landing-page0.netlify.app/)
+
+#### [CryptoTechnologies](https://mdyasinahmed.github.io/Bitcoin/)
+Crypto Currency Landing Page Practice Project. Clone and Idea from Themeforest, Templetemonster. [Live Preview](https://mdyasinahmed.github.io/Bitcoin/)
+
+#### [G3 Architects](https://github.com/mdyasinahmed/agency-G3-Architects)
+Brand New Group of Architects website landing page. [Live Preview](https://github.com/mdyasinahmed/agency-G3-Architects)
+
+#### [TuraCos](https://mdyasinahmed.github.io/TuraCos/)
+Digital Professional Agency website landing page. [Live Preview](https://mdyasinahmed.github.io/TuraCos/)
   
 ### Skills I have
 - **Programming Languages:** C, C++, Java, Dart, Python
