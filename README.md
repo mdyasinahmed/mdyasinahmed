@@ -41,7 +41,7 @@ Legal Solutions website landing page.
 Crypto Currency Landing Page Practice Project. Clone and Idea from Themeforest, Templetemonster. 
 <!--[Live Preview](https://mdyasinahmed.github.io/Bitcoin/)-->
 
-### [G3 Architects](https://github.com/mdyasinahmed/agency-G3-Architects)
+### [G3 Architects](https://mdyasinahmed.github.io/agency-G3-Architects/)
 Brand New Group of Architects website landing page. 
  <!--[Live Preview](https://github.com/mdyasinahmed/agency-G3-Architects)-->
 
