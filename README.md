@@ -25,11 +25,11 @@ Simple dynamic To-Do list CRUD, console application for practice [Algorithm Desi
 ### Website(Frontend)
 **Tech Stack:** HTML, CSS, Bootstrap, JavaScript
 
-### [Latest News](https://mdyasinahmed.github.io/newsportal_landingpage_demo/)
+### [Latest News](https://mdyasinahmed.github.io/web.newsportal_landingpage_demo/)
 Online news portal landing page practice project. 
 <!--[Live Preview](https://mdyasinahmed.github.io/newsportal_landingpage_demo/)-->
 
-### [MultiKart](https://mdyasinahmed.github.io/MultiKart/)
+### [MultiKart](https://mdyasinahmed.github.io/web.MultiKart/)
 E-commerce Landing Page Practice Project. Clone and Idea from Themeforest, Templetemonster. 
 <!--[Live Preview](https://mdyasinahmed.github.io/MultiKart/)-->
 
@@ -37,15 +37,15 @@ E-commerce Landing Page Practice Project. Clone and Idea from Themeforest, Templ
 Legal Solutions website landing page. 
 <!--[Live Preview](https://justice-landing-page0.netlify.app/)-->
 
-### [CryptoTechnologies](https://mdyasinahmed.github.io/Bitcoin/)
+### [CryptoTechnologies](https://mdyasinahmed.github.io/web.Bitcoin/)
 Crypto Currency Landing Page Practice Project. Clone and Idea from Themeforest, Templetemonster. 
 <!--[Live Preview](https://mdyasinahmed.github.io/Bitcoin/)-->
 
-### [G3 Architects](https://mdyasinahmed.github.io/agency-G3-Architects/)
+### [G3 Architects](https://mdyasinahmed.github.io/web.agency-G3-Architects/)
 Brand New Group of Architects website landing page. 
  <!--[Live Preview](https://github.com/mdyasinahmed/agency-G3-Architects)-->
 
-### [TuraCos](https://mdyasinahmed.github.io/TuraCos/)
+### [TuraCos](https://mdyasinahmed.github.io/web.TuraCos/)
 Digital Professional Agency website landing page. 
 <!--[Live Preview](https://mdyasinahmed.github.io/TuraCos/)-->
   
