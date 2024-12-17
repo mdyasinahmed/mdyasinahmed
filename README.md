@@ -50,7 +50,7 @@ Digital Professional Agency website landing page.
 <!--[Live Preview](https://mdyasinahmed.github.io/TuraCos/)-->
   
 ### Skills I have
-- **Programming Languages:** C, C++, Java, Dart, Python
+- **Programming Languages:** C, C++, Java, PHP, Dart, Python
 - **Dev & Design Tools:** Git, Figma, VS Code, Android Studio, IntelliJIDEA
 - **Web Development:** HTML, CSS, Bootstrap, JavaScript, JQuery
 - **App Development:** Flutter
