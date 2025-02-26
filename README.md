@@ -1,6 +1,3 @@
-### Hi there 👋
-Welcome to my GitHub profile! I'm <strong>Md. Yasin Ahmed Mahi</strong>, a passionate Junior Software Developer with a love for creating impactful and innovative solutions. Here you will find a collection of my projects, contributions, and some of the work I am proud of.
-
 ### Top Projects
 
 Here are some of the projects I have worked on:
