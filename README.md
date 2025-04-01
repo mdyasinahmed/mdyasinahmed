@@ -78,15 +78,4 @@ I occasionally share my study, experiences and knowledge in productivity, study-
 ### Connect with Me
 
 - LinkedIn: [Md. Yasin Ahmed Mahi](https://www.linkedin.com/in/mdyasiin/)
-<!--
-- Twitter: [Your Twitter Profile](https://twitter.com/yourprofile)
-- Personal Website: [Your Website](https://yourwebsite.com)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mdyasinahmed&theme=dark&hide_border=true)](https://git.io/streak-stats)
----
-
-Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas!
-
-<!--
-![Visitor Count](https://profile-counter.glitch.me/mdyasinahemed/count.svg)
--->
