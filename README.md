@@ -71,10 +71,10 @@ Digital Professional Agency website landing page.
 
 I occasionally share my study, experiences and knowledge in productivity, study-insights and technology:
 
+- [Why I Chose Computer Science and Engineering: A Journey of Passion and Perseverance](https://www.linkedin.com/pulse/why-i-chose-computer-science-engineering-journey-passion-mahi-2eu2f)
 - [What happens if you don’t set tasks for the next day before going to sleep?](https://medium.com/@md_yasinahmed/what-happens-if-you-dont-set-tasks-for-the-next-day-before-going-to-sleep-6b2bc875aea)
 - [How to prepare a well-organized Presentation?](https://medium.com/@md_yasinahmed/how-to-prepare-a-well-organized-presentation-dfc332f47dff)
 - [The 7 Cs of an Effective Business Communication in a nutshell](https://medium.com/@md_yasinahmed/7-cs-of-an-effective-business-communication-in-a-nutshell-4a2779e74460)
-- [Why I Chose Computer Science and Engineering: A Journey of Passion and Perseverance](https://www.linkedin.com/pulse/why-i-chose-computer-science-engineering-journey-passion-mahi-2eu2f)
 
 ### Connect with Me
 
