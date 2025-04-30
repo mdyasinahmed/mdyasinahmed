@@ -17,11 +17,7 @@ Database Management System For Metropolitan University Library. Complete CRUD Ap
 ### [Dynamic TO-DO List](https://github.com/mdyasinahmed/dynamic-todo-list-with-cpp)
 Simple dynamic To-Do list CRUD, console application for practice [Algorithm Design And Analysis](https://github.com/mdyasinahmed/CSE131-132_AlgorithmDesignAndAnalysis) Course. <br>
 **Tech Stack:** C++, C++ Libraries and VS Code
-<!--
-- **Project Purpose:**
-- **Highlights:** This project aims to create a dynamic to-do list by running the program in console.
-- **Key Features:** It allows users to Add, View, Search, Delete, and Update tasks using Command Prompt, PowerShell, Bash Windows, Terminal, iTerm2 etc. (as it is console run application)
--->
+
 ### Website(Frontend)
 **Tech Stack:** HTML, CSS, Bootstrap, JavaScript
 
