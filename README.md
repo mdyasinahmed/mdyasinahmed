@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Md. Yasin Ahmed Mahi
+### 👋 Hi there, I'm Md. Yasin Ahmed Mahi
 
 🎓 CSE Student | 🤖 Data Science, AI & Machine Learning Enthusiast | 🔬 Passionate About Research
 
@@ -6,37 +6,73 @@
 
 ## 💫 About Me
 
-I'm a Computer Science & Engineering student deeply fascinated by the world of **Data Science**, **Artificial Intelligence**, and **Machine Learning**. I love working on real-world problems, experimenting with models, and contributing to research-oriented projects.
+I'm a Computer Science & Engineering student driven by curiosity and passion for solving problems using technology. My interests lie in **Data Science**, **Machine Learning**, and **Artificial Intelligence**, but I also enjoy full-stack development and academic research.
 
-- 🔍 Exploring opportunities in Data-Driven Research
-- 📊 Eager to solve real-world problems using ML/AI
-- 🧠 Always learning and building
+- 🔍 Exploring data-driven research opportunities
+- 🧠 Lifelong learner & productivity enthusiast
+- 👨‍💻 Active in academic projects and personal learning
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Skills I Have
 
-- **Languages**: Python, C/C++, JavaScript, SQL
-- **Libraries & Frameworks**: Pandas, NumPy, Matplotlib, Scikit-Learn, TensorFlow, PyTorch
-- **Web**: HTML, CSS, React (beginner), Django (learning)
-- **Tools**: Git, GitHub, Jupyter, VS Code, Google Colab
+- **Programming Languages:** C, C++, Java, PHP, Dart, Python  
+- **Web Development:** HTML, CSS, Bootstrap, JavaScript, JQuery  
+- **App Development:** Flutter  
+- **Database:** MySQL  
+- **Dev & Design Tools:** Git, Figma, VS Code, Android Studio, IntelliJ IDEA  
+
+---
+
+## 🚀 Top Projects
+
+Here are some of the projects I've worked on:
+
+### 🔗 [LifeDrops](https://bcoderapp.github.io/LifeDrops/)
+A blood donation platform connecting donors and recipients. Group project for [Web Programming Lab](https://github.com/mdyasinahmed/CSE-323_WebProgrammingLab).  
+**Tech Stack:** HTML, CSS, Bootstrap, PHP, MySQL
+
+### 🔗 [RecordBook](https://github.com/mdyasinahemd/dbms.RecordBook_Server)
+Library Management CRUD System for university DBMS course.  
+**Tech Stack:** HTML, CSS, Bootstrap, PHP, MySQL
+
+### 🔗 [Dynamic TO-DO List](https://github.com/mdyasinahmed/dynamic-todo-list-with-cpp)
+Simple console-based CRUD To-Do List using C++.  
+**Tech Stack:** C++, C++ Standard Libraries
+
+### 🌐 Frontend Practice Projects
+- [Latest News](https://mdyasinahmed.github.io/web.newsportal_landingpage_demo/) – News portal landing page  
+- [MultiKart](https://mdyasinahmed.github.io/web.MultiKart/) – E-commerce landing page clone  
+- [Justice](https://justice-landing-page0.netlify.app/) – Legal service landing page  
+- [CryptoTechnologies](https://mdyasinahmed.github.io/web.Bitcoin/) – Crypto landing page  
+- [G3 Architects](https://mdyasinahmed.github.io/web.agency-G3-Architects/) – Architect agency landing  
+- [TuraCos](https://mdyasinahmed.github.io/web.TuraCos/) – Digital agency website  
+
+---
+
+## ✍️ Blog Posts
+
+I occasionally share insights on productivity, tech, and personal experiences:
+
+- 📘 [Why I Chose Computer Science and Engineering](https://www.linkedin.com/pulse/why-i-chose-computer-science-engineering-journey-passion-mahi-2eu2f)
+- ⏰ [What happens if you don’t set tasks before sleep?](https://medium.com/@md_yasinahmed/what-happens-if-you-dont-set-tasks-for-the-next-day-before-going-to-sleep-6b2bc875aea)
+- 🧑‍🏫 [How to prepare a well-organized Presentation?](https://medium.com/@md_yasinahmed/how-to-prepare-a-well-organized-presentation-dfc332f47dff)
+- 📢 [7 Cs of Effective Business Communication](https://medium.com/@md_yasinahmed/7-cs-of-an-effective-business-communication-in-a-nutshell-4a2779e74460)
 
 ---
 
 ## 📈 GitHub Stats
 
-![Yasin's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdyasinahmed&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdyasinahmed&layout=compact&theme=dark)
+![Yasin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdyasinahmed&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdyasinahmed&layout=compact&theme=radical)
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/mdyasiin/)
-- 📧 Email: mdyasiinmahi@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/mdyasiin/)
+- 📧 Email: your.email@example.com
 
 ---
 
-*“Learning never exhausts the mind.” – Leonardo da Vinci*
-
-
+> “Learning never exhausts the mind.” – *Leonardo da Vinci*
