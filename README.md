@@ -14,16 +14,6 @@ I'm a Computer Science & Engineering student driven by curiosity and passion for
 
 ---
 
-## 🛠️ Skills I Have
-
-- **Programming Languages:** C, C++, Java, PHP, Dart, Python  
-- **Web Development:** HTML, CSS, Bootstrap, JavaScript, JQuery  
-- **App Development:** Flutter  
-- **Database:** MySQL  
-- **Dev & Design Tools:** Git, Figma, VS Code, Android Studio, IntelliJ IDEA  
-
----
-
 ## 🚀 Top Projects
 
 Here are some of the projects I've worked on:
@@ -47,6 +37,16 @@ Simple console-based CRUD To-Do List using C++.
 - [CryptoTechnologies](https://mdyasinahmed.github.io/web.Bitcoin/) – Crypto landing page  
 - [G3 Architects](https://mdyasinahmed.github.io/web.agency-G3-Architects/) – Architect agency landing  
 - [TuraCos](https://mdyasinahmed.github.io/web.TuraCos/) – Digital agency website  
+
+---
+
+## 🛠️ Skills I Have
+
+- **Programming Languages:** C, C++, Java, PHP, Dart, Python  
+- **Web Development:** HTML, CSS, Bootstrap, JavaScript, JQuery  
+- **App Development:** Flutter  
+- **Database:** MySQL  
+- **Dev & Design Tools:** Git, Figma, VS Code, Android Studio, IntelliJ IDEA  
 
 ---
 
