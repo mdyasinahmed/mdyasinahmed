@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Md. Yasin Ahmed Mahi
+## 👋 Hi there, I'm Md. Yasin Ahmed Mahi
 
 🎓 CSE Student | 🤖 Data Science, AI & Machine Learning Enthusiast | 🔬 Passionate About Research
 
