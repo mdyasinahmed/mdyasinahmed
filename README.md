@@ -71,7 +71,7 @@ I occasionally share insights on productivity, tech, and personal experiences:
 ## 📫 Connect with Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/mdyasiin/)
-- 📧 Email: your.email@example.com
+- 📧 Email: mdyasinmahii@gmail.com
 
 ---
 
