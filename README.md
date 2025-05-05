@@ -1,7 +1,7 @@
 ## 👋 Hi there, I'm Md. Yasin Ahmed Mahi
 
 🎓 CSE Student | 🤖 Data Science, AI & Machine Learning Enthusiast | 🔬 Passionate About Research
-
+<br>
 
 ## 💫 About Me
 
@@ -10,6 +10,7 @@ I'm a Computer Science & Engineering student driven by curiosity and passion for
 - 🔍 Exploring data-driven research opportunities
 - 🧠 Lifelong learner & productivity enthusiast
 - 👨‍💻 Active in academic projects and personal learning
+<br>
 
 ## 🚀 Top Projects
 
@@ -35,6 +36,8 @@ Simple console-based CRUD To-Do List using C++.
 - [G3 Architects](https://mdyasinahmed.github.io/web.agency-G3-Architects/) – Architect agency landing  
 - [TuraCos](https://mdyasinahmed.github.io/web.TuraCos/) – Digital agency website  
 
+<br>
+
 ## 🛠️ Skills I Have
 
 - **Programming Languages:** C, C++, Java, PHP, Dart, Python  
@@ -42,6 +45,8 @@ Simple console-based CRUD To-Do List using C++.
 - **App Development:** Flutter  
 - **Database:** MySQL  
 - **Dev & Design Tools:** Git, Figma, VS Code, Android Studio, IntelliJ IDEA  
+
+<br>
 
 ## ✍️ Blog Posts
 
@@ -59,9 +64,13 @@ I occasionally share insights on productivity, tech, and personal experiences:
 
 ---
 -->
+<br>
+
 ## 📫 Connect with Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/mdyasiin/)
 - 📧 Email: mdyasinmahii@gmail.com
+<br>
+<br>
 
 > “Learning never exhausts the mind.” – *Leonardo da Vinci*
