@@ -3,7 +3,6 @@
 🎓 CSE Student | 🤖 Data Science, AI & Machine Learning Enthusiast | 🔬 Passionate About Research
 
 <br>
-
 ## 💫 About Me
 
 I'm a Computer Science & Engineering student driven by curiosity and passion for solving problems using technology. My interests lie in **Data Science**, **Machine Learning**, and **Artificial Intelligence**, but I also enjoy full-stack development and academic research.
@@ -11,8 +10,8 @@ I'm a Computer Science & Engineering student driven by curiosity and passion for
 - 🔍 Exploring data-driven research opportunities
 - 🧠 Lifelong learner & productivity enthusiast
 - 👨‍💻 Active in academic projects and personal learning
-<br>
 
+<br>
 ## 🚀 Top Projects
 
 Here are some of the projects I've worked on:
@@ -38,7 +37,6 @@ Simple console-based CRUD To-Do List using C++.
 - [TuraCos](https://mdyasinahmed.github.io/web.TuraCos/) – Digital agency website  
 
 <br>
-
 ## 🛠️ Skills I Have
 
 - **Programming Languages:** C, C++, Java, PHP, Dart, Python  
@@ -48,7 +46,6 @@ Simple console-based CRUD To-Do List using C++.
 - **Dev & Design Tools:** Git, Figma, VS Code, Android Studio, IntelliJ IDEA  
 
 <br>
-
 ## ✍️ Blog Posts
 
 I occasionally share insights on productivity, tech, and personal experiences:
@@ -66,12 +63,10 @@ I occasionally share insights on productivity, tech, and personal experiences:
 ---
 -->
 <br>
-
 ## 📫 Connect with Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/mdyasiin/)
 - 📧 Email: mdyasinmahii@gmail.com
 <br>
 <br>
-
 > “Learning never exhausts the mind.” – *Leonardo da Vinci*
