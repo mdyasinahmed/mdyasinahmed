@@ -1,22 +1,21 @@
-## 👋 Hi there, I'm Md. Yasin Ahmed Mahi
-
-🎓 CSE Student | 🤖 Data Science, AI & Machine Learning Enthusiast | 🔬 Passionate About Research
-
-## 💫 About Me
+## About Me
 
 I'm a Computer Science & Engineering student driven by curiosity and passion for solving problems using technology. My interests lie in **Data Science**, **Machine Learning**, and **Artificial Intelligence**, but I also enjoy full-stack development and academic research.
 
-- 🔍 Exploring data-driven research opportunities
-- 🧠 Lifelong learner & productivity enthusiast
-- 👨‍💻 Active in academic projects and personal learning
+- Exploring data-driven research opportunities
+- Lifelong learner & productivity enthusiast
+- Active in academic projects and personal learning
 
-## 🚀 Top Projects
+
+## Top Projects
 
 Here are some of the projects I've worked on:
+
 
 ### 🔗 [LifeDrops](https://bcoderapp.github.io/LifeDrops/)
 A blood donation platform connecting donors and recipients. Group project for [Web Programming Lab](https://github.com/mdyasinahmed/CSE-323_WebProgrammingLab).  
 **Tech Stack:** HTML, CSS, Bootstrap, PHP, MySQL
+
 
 ### 🔗 [RecordBook](https://github.com/mdyasinahemd/dbms.RecordBook_Server)
 Library Management CRUD System for university DBMS course.  
@@ -34,7 +33,8 @@ Simple console-based CRUD To-Do List using C++.
 - [G3 Architects](https://mdyasinahmed.github.io/web.agency-G3-Architects/) – Architect agency landing  
 - [TuraCos](https://mdyasinahmed.github.io/web.TuraCos/) – Digital agency website  
 
-## 🛠️ Skills I Have
+
+## Skills I Have
 
 - **Programming Languages:** C, C++, Java, PHP, Dart, Python  
 - **Web Development:** HTML, CSS, Bootstrap, JavaScript, JQuery  
@@ -42,14 +42,15 @@ Simple console-based CRUD To-Do List using C++.
 - **Database:** MySQL  
 - **Dev & Design Tools:** Git, Figma, VS Code, Android Studio, IntelliJ IDEA  
 
-## ✍️ Blog Posts
+
+## Blog Posts
 
 I occasionally share insights on productivity, tech, and personal experiences:
 
-- 📘 [Why I Chose Computer Science and Engineering](https://www.linkedin.com/pulse/why-i-chose-computer-science-engineering-journey-passion-mahi-2eu2f)
-- ⏰ [What happens if you don’t set tasks before sleep?](https://medium.com/@md_yasinahmed/what-happens-if-you-dont-set-tasks-for-the-next-day-before-going-to-sleep-6b2bc875aea)
-- 🧑‍🏫 [How to prepare a well-organized Presentation?](https://medium.com/@md_yasinahmed/how-to-prepare-a-well-organized-presentation-dfc332f47dff)
-- 📢 [7 Cs of Effective Business Communication](https://medium.com/@md_yasinahmed/7-cs-of-an-effective-business-communication-in-a-nutshell-4a2779e74460)
+- [Why I Chose Computer Science and Engineering](https://www.linkedin.com/pulse/why-i-chose-computer-science-engineering-journey-passion-mahi-2eu2f)
+- [What happens if you don’t set tasks before sleep?](https://medium.com/@md_yasinahmed/what-happens-if-you-dont-set-tasks-for-the-next-day-before-going-to-sleep-6b2bc875aea)
+- [How to prepare a well-organized Presentation?](https://medium.com/@md_yasinahmed/how-to-prepare-a-well-organized-presentation-dfc332f47dff)
+- [7 Cs of Effective Business Communication](https://medium.com/@md_yasinahmed/7-cs-of-an-effective-business-communication-in-a-nutshell-4a2779e74460)
 <!--
 ## 📈 GitHub Stats
 
@@ -58,9 +59,10 @@ I occasionally share insights on productivity, tech, and personal experiences:
 
 ---
 -->
-## 📫 Connect with Me
+
+## Connect with Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/mdyasiin/)
-- 📧 Email: mdyasinmahii@gmail.com
+- Email: mdyasinmahii@gmail.com
 
 > “Learning never exhausts the mind.” – *Leonardo da Vinci*
