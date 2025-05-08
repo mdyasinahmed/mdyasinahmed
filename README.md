@@ -51,7 +51,6 @@ I occasionally share insights on productivity, tech, and personal experiences:
 - [What happens if you don’t set tasks before sleep?](https://medium.com/@md_yasinahmed/what-happens-if-you-dont-set-tasks-for-the-next-day-before-going-to-sleep-6b2bc875aea)
 - [How to prepare a well-organized Presentation?](https://medium.com/@md_yasinahmed/how-to-prepare-a-well-organized-presentation-dfc332f47dff)
 - [7 Cs of Effective Business Communication](https://medium.com/@md_yasinahmed/7-cs-of-an-effective-business-communication-in-a-nutshell-4a2779e74460)
-<br>
 <!--
 ## 📈 GitHub Stats
 
@@ -60,7 +59,7 @@ I occasionally share insights on productivity, tech, and personal experiences:
 
 ---
 -->
-
+<br>
 ## Connect with Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/mdyasiin/)
