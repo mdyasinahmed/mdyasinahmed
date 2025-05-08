@@ -5,7 +5,7 @@ I'm a Computer Science & Engineering student driven by curiosity and passion for
 - Exploring data-driven research opportunities
 - Lifelong learner & productivity enthusiast
 - Active in academic projects and personal learning
-
+<br>
 
 ## Top Projects
 
@@ -32,7 +32,7 @@ Simple console-based CRUD To-Do List using C++.
 - [CryptoTechnologies](https://mdyasinahmed.github.io/web.Bitcoin/) – Crypto landing page  
 - [G3 Architects](https://mdyasinahmed.github.io/web.agency-G3-Architects/) – Architect agency landing  
 - [TuraCos](https://mdyasinahmed.github.io/web.TuraCos/) – Digital agency website  
-
+<br>
 
 ## Skills I Have
 
@@ -41,7 +41,7 @@ Simple console-based CRUD To-Do List using C++.
 - **App Development:** Flutter  
 - **Database:** MySQL  
 - **Dev & Design Tools:** Git, Figma, VS Code, Android Studio, IntelliJ IDEA  
-
+<br>
 
 ## Blog Posts
 
@@ -51,6 +51,7 @@ I occasionally share insights on productivity, tech, and personal experiences:
 - [What happens if you don’t set tasks before sleep?](https://medium.com/@md_yasinahmed/what-happens-if-you-dont-set-tasks-for-the-next-day-before-going-to-sleep-6b2bc875aea)
 - [How to prepare a well-organized Presentation?](https://medium.com/@md_yasinahmed/how-to-prepare-a-well-organized-presentation-dfc332f47dff)
 - [7 Cs of Effective Business Communication](https://medium.com/@md_yasinahmed/7-cs-of-an-effective-business-communication-in-a-nutshell-4a2779e74460)
+<br>
 <!--
 ## 📈 GitHub Stats
 
@@ -64,5 +65,6 @@ I occasionally share insights on productivity, tech, and personal experiences:
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/mdyasiin/)
 - Email: mdyasinmahii@gmail.com
+<br>
 
 > “Learning never exhausts the mind.” – *Leonardo da Vinci*
