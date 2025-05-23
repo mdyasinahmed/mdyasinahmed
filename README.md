@@ -12,7 +12,7 @@ I'm a Computer Science & Engineering student driven by curiosity and passion for
 Here are some of the projects I've worked on:
 
 
-### 🔗 [LifeDrops](https://bcoderapp.github.io/LifeDrops/)
+### 🔗 [LifeDrops](https://lifedrops.great-site.net/)
 A blood donation platform connecting donors and recipients. Group project for [Web Programming Lab](https://github.com/mdyasinahmed/CSE-323_WebProgrammingLab).  
 **Tech Stack:** HTML, CSS, Bootstrap, PHP, MySQL
 
