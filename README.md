@@ -21,11 +21,13 @@ A blood donation platform connecting donors and recipients. Group project for [W
 Library Management CRUD System for university DBMS course.  
 **Tech Stack:** HTML, CSS, Bootstrap, PHP, MySQL
 
-### 🔗 [Dynamic TO-DO List](https://github.com/mdyasinahmed/dynamic-todo-list-with-cpp)
+### 🔗 [Dynamic TO-DO List - A Console-Based Application](https://github.com/mdyasinahmed/dynamic-todo-list-with-cpp)
 Simple console-based CRUD To-Do List using C++.  
 **Tech Stack:** C++, C++ Standard Libraries
 
-### 🌐 Frontend Practice Projects
+### 🌐 Web Development Projects
+- [Connect2Globe](https://mdyasinahmed.github.io/web.newsportal_landingpage_demo/) – Consulting agency website
+- [Enforex IELTS](https://mdyasinahmed.github.io/web.enforex-ielts/) – IELTS Training & Consulting agency website
 - [Latest News](https://mdyasinahmed.github.io/web.newsportal_landingpage_demo/) – News portal landing page  
 - [MultiKart](https://mdyasinahmed.github.io/web.MultiKart/) – E-commerce landing page clone  
 - [Justice](https://justice-landing-page0.netlify.app/) – Legal service landing page  
