@@ -27,7 +27,7 @@ Simple console-based CRUD To-Do List using C++.
 
 ### 🌐 Web Development Projects
 - [Connect2Globe](https://github.com/mdyasinahmed/web.Connect2Globe) – Consulting agency website
-- [Enforex IELTS](https://mdyasinahmed.github.io/web.enforex-ielts) – IELTS Training & Consulting agency website
+- [EnforexIELTS](https://mdyasinahmed.github.io/web.enforex-ielts) – IELTS Training & Consulting agency website
 - [Latest News](https://mdyasinahmed.github.io/web.newsportal_landingpage_demo) – News portal landing page
 - [Ittady Gallery](https://mdyasinahmed.github.io/web.ittady-gallery) - Furniture shob website landing page  
 - [MultiKart](https://mdyasinahmed.github.io/web.MultiKart) – E-commerce landing page clone  
