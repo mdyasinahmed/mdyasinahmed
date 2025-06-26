@@ -55,13 +55,13 @@ I occasionally share insights on productivity, tech, and personal experiences:
 - [How to prepare a well-organized Presentation?](https://medium.com/@md_yasinahmed/how-to-prepare-a-well-organized-presentation-dfc332f47dff)
 - [7 Cs of Effective Business Communication](https://medium.com/@md_yasinahmed/7-cs-of-an-effective-business-communication-in-a-nutshell-4a2779e74460)
 
+
 ## GitHub Stats
 <!--
 ![Yasin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdyasinahmed&show_icons=true&theme=radical)
 -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdyasinahmed&layout=compact&theme=radical)
 
-<br>
 
 ## Connect with Me
 
