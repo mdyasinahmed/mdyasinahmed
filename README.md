@@ -5,7 +5,6 @@ I'm a Computer Science & Engineering student driven by curiosity and passion for
 - Exploring data-driven research opportunities
 - Lifelong learner & productivity enthusiast
 - Active in academic projects and personal learning
-<br>
 
 ## Top Projects
 
