@@ -10,6 +10,12 @@ I'm a Computer Science & Engineering student driven by curiosity and passion for
 
 Here are some of the projects I've worked on:
 
+### 🔗 [MU-BUS](https://github.com/mdyasinahmed/MU-Bus)
+A university bus schedule and route management system designed for students, faculty, and staff to view real-time bus schedules and plan commutes efficiently. Group project for [CSE300 - Project](https://github.com/mdyasinahmed/CSE-323_WebProgrammingLab).
+**Tech Stack:** Flutter, HTML, CSS, Bootstrap, PHP, MySQL
+
+---
+
 
 ### 🔗 [LifeDrops](https://lifedrops.great-site.net/)
 A blood donation platform connecting donors and recipients. Group project for [Web Programming Lab](https://github.com/mdyasinahmed/CSE-323_WebProgrammingLab).  
