@@ -13,10 +13,12 @@ Here are some of the projects I've worked on:
 ### 🔗 [MU-BUS](https://github.com/mdyasinahmed/MU-Bus)
 A university bus schedule and route management system that helps students, faculty, and staff access real-time bus schedules and plan their commutes efficiently.  
 This was developed as an **Academic Project** for [CSE300 - Project](https://github.com/mdyasinahmed/CSE-300_Project).  
+
 **My Contributions:**  
 - Developed the **Flutter Mobile Application**  
 - Built the **Backend of the Entire System**  
-- Created and integrated **PHP APIs**  
+- Created and integrated **PHP APIs**
+
 **Tech Stack:** Flutter, HTML, CSS, Bootstrap, PHP, MySQL
 
 
