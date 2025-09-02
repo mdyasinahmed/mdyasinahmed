@@ -36,6 +36,7 @@ Simple console-based CRUD To-Do List using C++.
 **Tech Stack:** C++, C++ Standard Libraries
 
 ### 🌐 Web Development Projects
+- [Leap2Learn](https://www.leap2learnglobal.com) – Consulting agency website
 - [Connect2Globe](https://github.com/mdyasinahmed/web.Connect2Globe) – Consulting agency website
 - [EnforexIELTS](https://mdyasinahmed.github.io/web.enforex-ielts) – IELTS Training & Consulting agency website
 - [Latest News](https://mdyasinahmed.github.io/web.newsportal_landingpage_demo) – News portal landing page
