@@ -77,6 +77,3 @@ I occasionally share insights on productivity, tech, and personal experiences:
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/mdyasiin/)
 - Email: mdyasinmahii@gmail.com
-<br>
-
-> “Learning never exhausts the mind.” – *Leonardo da Vinci*
