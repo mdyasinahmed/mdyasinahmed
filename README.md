@@ -70,9 +70,6 @@ I occasionally share insights on productivity, tech, and personal experiences:
 
 ![Yasin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdyasinahmed&show_icons=true&theme=radical)
 
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdyasinahmed&layout=compact&theme=radical)
-
 ## Connect with Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/mdyasiin/)
