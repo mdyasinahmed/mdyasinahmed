@@ -1,6 +1,5 @@
 ## About Me
-I'm a **Computer Science & Engineering undergraduate** driven by a deep curiosity to explore how technology can solve real-world problems.  
-My core interests include **Data Science**, **Machine Learning**, **Artificial Intelligence**, and **Application Development**. Beyond coding, I’m deeply involved in **academic research** and **project-based learning**, combining technical depth with creativity and innovation.  
+I'm a **Computer Science & Engineering undergraduate** driven by a deep curiosity to explore how technology can solve real-world problems. My core interests include **Data Science**, **Machine Learning**, **Artificial Intelligence**, and **Application Development**. Beyond coding, I’m deeply involved in **academic research** and **project-based learning**, combining technical depth with creativity and innovation.  
 To me, great technology bridges logic with empathy and I strive to build solutions that truly make a difference.
 
 **What I focus on:**
@@ -18,6 +17,7 @@ To me, great technology bridges logic with empathy and I strive to build solutio
 **Overview:**  
 This research tackled the limitations of lexicon-based sentiment analysis using the AFINN dictionary, specifically its inability to handle complex negations.  
 By introducing a **scope-controlled negation handler** and improved tokenization process, we significantly enhanced sentiment accuracy for mixed or ambiguous sentences. 
+
 **My Contributions:**  
 - Identified key logical flaws in existing dictionary-based sentiment scoring  
 - Redesigned tokenizer to handle negations dynamically  
@@ -33,6 +33,7 @@ Enhanced system accuracy on real-world data and laid groundwork for hybrid ML–
 **Overview:**  
 This study focused on **equitable survival prediction** for Post-Hematopoietic Cell Transplant (HCT) patients using machine learning.  
 The model integrates both clinical and demographic variables to ensure fairness and transparency in medical outcome prediction.  
+
 **My Contributions:**  
 - Designed a machine learning pipeline for survival prediction  
 - Conducted feature analysis across 59 variables  
