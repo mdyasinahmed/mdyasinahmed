@@ -33,8 +33,6 @@ Enhanced system accuracy on real-world data and laid groundwork for hybrid ML–
 
 **Tech Used:** Python, Scikit-learn, Pandas, Matplotlib, Data Preprocessing, JavaScript, NLP Techniques, AFINN Sentiment Lexicon, CNN
 
----
-
 ### [Survival Prediction for Post-HCT Patients Using Machine Learning](https://github.com/mdyasinahmed)
 **Course:** *CSE 472 - Machine Learning Lab*  
 **Dataset:** *CIBMTR – Equity in Post-HCT Survival Predictions (Kaggle)*  
@@ -68,8 +66,6 @@ A complete **university bus schedule and route management system** designed to h
 
 **Tech Stack:** Flutter, PHP, MySQL, HTML, CSS, Bootstrap  
 
----
-
 ### 🔗 [LifeDrops](https://lifedrops.great-site.net/)
 **Course:** *CSE 323 – Web Programming Lab*  
 A **blood donation management system** connects donors and recipients based on blood group and location, making life-saving communication faster and easier.  
@@ -81,8 +77,6 @@ A **blood donation management system** connects donors and recipients based on b
 
 **Tech Stack:** HTML, CSS, Bootstrap, PHP, MySQL  
 
----
-
 ### 🔗 [RecordBook](https://recordbook.great-site.net/)
 **Course:** *Database Management Systems (DBMS) Project*  
 A **web-based CRUD system** for managing book records in university libraries, designed for simplicity and reliability.  
@@ -93,8 +87,6 @@ A **web-based CRUD system** for managing book records in university libraries, d
 - Designed the user interface for the admin dashboard  
 
 **Tech Stack:** HTML, CSS, Bootstrap, PHP, MySQL  
-
----
 
 ### 🔗 [Dynamic TO-DO List – Console Application](https://github.com/mdyasinahmed/dynamic-todo-list-with-cpp)
 **Course:** *CSE 422 - Artificial Intelligence Lab*  
