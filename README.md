@@ -123,6 +123,8 @@ A collection of creative and client-ready responsive web projects developed duri
 
 ## Skills & Technologies
 
+| **Skill Area** | **Tools & Technologies** |
+|:----------------|:--------------------------|
 | **Programming** | C, C++, Java, PHP, JavaScript, Dart, Python |
 | **Web Development** | HTML, CSS, Bootstrap, JavaScript, JQuery |
 | **App Development** | Flutter |
